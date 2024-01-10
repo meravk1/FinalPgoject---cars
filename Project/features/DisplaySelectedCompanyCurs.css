@@ -1,0 +1,38 @@
+img{
+    width: 500px;
+    height: 300px;
+}
+#before{
+    width: 130px;
+    height: 40px;
+    /* background-color: brown; */
+    background-color: white;
+    color: black;
+    left: 650px;
+   
+}
+/* span{
+    width: 500px; 
+} */
+
+.button-clicked {
+    background-color: red;
+    color: red;
+ 
+  }
+  .not{
+    background-color: white;
+  }
+  #order{
+    background-color: brown;
+    color: black;
+    width: 160px;
+    height: 60px;
+    border-radius: 20px;
+  }
+  #del{
+    width: 160px;
+    height: 60px;
+    color: black;
+  }
+  

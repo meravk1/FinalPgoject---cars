@@ -1,0 +1,41 @@
+img{
+    width: 60px;
+}
+button{
+    width: 90px;
+    height: 40px;
+    background-color: white;
+   
+}
+#h{
+    width: 200px;
+    height: 100px;
+    position: fixed;
+  top: 0;
+  left: 0;
+}
+#home2{
+    width: 60px;
+    height: 60px;
+    /* left:650px; */
+    position:fixed;
+   right:0;
+   top: 0;
+   
+}
+#search{
+   width: 140px;
+    height: 20px;
+    border-radius: 10px;
+    color: black;
+}
+#like{
+    position: fixed;
+  top: 70px;
+  left: 30px;  
+}
+#numLike{
+    position: fixed;
+    top: 30px;
+    left: 120px;
+}

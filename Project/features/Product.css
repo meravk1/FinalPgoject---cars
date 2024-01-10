@@ -1,0 +1,37 @@
+img{
+    width: 60px;
+    height: 40px;
+}
+#open{
+    width: 60px;
+    height: 500px;
+}
+#h{
+    width: 60px;
+}
+#in{
+    width: 20px;
+    
+}
+#send{
+    background-color: brown;
+    color: black;
+    border-radius: 20px;
+    width: 150px;
+    height: 50px;
+
+}
+#home{
+    left: 560px;
+    width: 60px;
+    height: 50px;
+    
+    
+}
+#ret{
+    left: 650%;
+    bottom: 20px;
+}
+#del{
+    color: black;
+}

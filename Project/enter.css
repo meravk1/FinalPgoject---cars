@@ -1,0 +1,105 @@
+/* #logo {
+  width: 300px;
+  height: 200px;
+}
+#gif {
+  width: 300px;
+  height: 200px;
+} */
+#buttonSend {
+  color: black;
+  background-color: red;
+  height: 40px;
+  width: 70px;
+ 
+  display: block;
+  text-align: left;
+  padding: -4%;
+  position: fixed;
+  bottom: 60px;
+  left:60px;
+}
+#outlined-basic,
+filled-password-input {
+  color: brown;
+  background-color: white;
+  display: flex;
+  /* position: fixed; */
+  left:0;
+  top:100px;
+}
+#Snackbar {
+  display: block;
+  text-align: left;
+  padding: -4%;
+  bottom: 50px;
+}
+#myInput {
+  display: block;
+  text-align: left;
+  padding: 3%;
+}
+#errors {
+  color: aqua;
+}
+span {
+  width: 60px;
+}
+#private {
+  width: 120px;
+  height: 30px;
+  background-color: white;
+  color: black;
+}
+#well {
+  background-color: white;
+  width: 90px;
+  color: black;
+  margin-right: 30px;
+ 
+  display: block;
+  text-align: left;
+  padding: -4%;
+  position: fixed;
+  bottom: 10px;
+}
+#myDiv {
+  background-image: url("./features/photos/logo.png");
+  background-size: cover;
+  padding: 2%;
+  height: 92vh;
+  
+}
+#TextField {
+  display: flex;
+}
+
+#submit {
+ 
+  
+  position: fixed;
+  bottom:  120px;
+  left:20px;
+  height: 40px;
+  width: 140px;
+  color: black;
+  background-color: red;
+}
+
+#Alert {
+  /* לבדוק למה לא קולט את העיצוב של ERROR*/
+  width: auto;
+  height: auto;
+  border-radius: 44px;
+  background-color: rgb(213 36 36);
+  color: rgb(12 12 12);
+}
+#myDiv{
+  left: 0;
+  top: 0;
+}
+#form{
+  position: fixed;
+  left: 0;
+ bottom: 180px;
+}
